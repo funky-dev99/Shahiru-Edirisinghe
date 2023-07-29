@@ -48,8 +48,8 @@ class _NavbarDesktop extends StatelessWidget {
             ),
           ),
           Space.x!,
-          Switch(
-            inactiveTrackColor: Colors.grey,
+          CupertinoSwitch(
+            thumbColor: Colors.grey,
             value: appProvider.isDark,
             onChanged: (value) {
               appProvider.setTheme(

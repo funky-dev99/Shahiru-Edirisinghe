@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:folio/animations/entrance_fader.dart';
 import 'package:folio/configs/app.dart';
 import 'package:folio/configs/configs.dart';
