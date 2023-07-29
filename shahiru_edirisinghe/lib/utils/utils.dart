@@ -34,16 +34,16 @@ class StaticUtils {
     "https://img.icons8.com/android/480/ffffff/twitter.png",
     "https://img.icons8.com/metro/308/ffffff/linkedin.png",
     "https://img.icons8.com/material-rounded/384/ffffff/github.png",
-    "https://img.icons8.com/ios-filled/500/ffffff/medium-monogram--v1.png"
+    // "https://img.icons8.com/ios-filled/500/ffffff/medium-monogram--v1.png"
   ];
 
   static const List<String> socialLinks = [
-    "https://facebook.com/mhmzdev",
-    "https://instagram.com/mhmzdev",
-    "https://twitter.com/mhmzdev",
-    "https://linkedin.com/in/mhmzdev",
-    "https://github.com/mhmzdev",
-    "https://mhmzdev.medium.com"
+    "https://www.facebook.com/shahiru.online?mibextid=ZbWKwL",
+    "https://instagram.com/_mr_s.h.a.h.i._?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
+    "https://twitter.com/ShahiruEdi99",
+    "https://linkedin.com/in/shahiruediri99",
+    "https://github.com/funky-dev99",
+    // "https://mhmzdev.medium.com"
   ];
 
   static const String resume =

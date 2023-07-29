@@ -28,8 +28,8 @@ class _MobileDrawer extends StatelessWidget {
                 title: const Text(
                   "Dark Mode",
                 ),
-                trailing: Switch(
-                  inactiveTrackColor: Colors.grey,
+                trailing: CupertinoSwitch(
+                  thumbColor: Colors.grey,
                   value: appProvider.isDark,
                   onChanged: (value) {
                     appProvider
