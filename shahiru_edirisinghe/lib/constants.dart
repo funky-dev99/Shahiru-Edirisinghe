@@ -9,7 +9,10 @@ void openURL(String url) => launchUrl(
 final kTools = [
   "Flutter",
   "Dart",
+  "PHP",
+  "Figma",
   "Python",
   "Java",
   "C++",
+
 ];
