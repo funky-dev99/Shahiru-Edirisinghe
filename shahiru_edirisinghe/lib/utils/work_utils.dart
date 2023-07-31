@@ -9,7 +9,7 @@ class WorkUtils {
   ];
 
   static const List<String> communityLinks = [
-    "https://www.comsats.edu.pk/",
+    "https://flutter.dev/",
     "https://web.facebook.com/FlutterIslamabadPakistan/",
     "https://dsc.community.dev/comsats-university-islamabad/",
     "https://sastaticket.pk/"
