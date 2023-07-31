@@ -47,9 +47,9 @@ class StaticUtils {
   ];
 
   static const String resume =
-      'https://drive.google.com/file/d/1bDNNrkQtNVJbXcdwMSx0crQQvAF_nMwV/view?usp=sharing';
+      'https://drive.google.com/file/d/1Lz5cimv3DJT7YhK4kehV1nDrdaClXN_y/view?usp=sharing';
 
-  static const String gitHub = 'https://github.com/mhmzdev';
+  static const String gitHub = 'https://github.com/funky-dev99';
 }
 
 class BodyUtils {

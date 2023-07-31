@@ -46,7 +46,7 @@ class _ServiceCardBackWidget extends StatelessWidget {
                           MaterialButton(
                             height: 40.0,
                             onPressed: () => openURL(
-                              'https://api.whatsapp.com/send?phone=923460159889',
+                              'https://wa.me/qr/CUDAPJOE3MYCJ1',
                             ),
                             color: const Color(0xff34CB62),
                             child: Row(
@@ -70,7 +70,7 @@ class _ServiceCardBackWidget extends StatelessWidget {
                           MaterialButton(
                             height: 40.0,
                             onPressed: () => openURL(
-                              'https://www.upwork.com/freelancers/~0197b0f6aaeba9675f',
+                              '',
                             ),
                             color: const Color(0xff13A800),
                             child: Row(
